@@ -11,4 +11,4 @@
 [*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an [evergreen](https://www.merriam-webster.com/dictionary/evergreen) shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. The largest mate plantations are near Natal. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea.
 
 <param ve-entity title="diuretic" eid="Q200656">
-
+<param ve-entityy title="antimicrobial" eid="Q68541106">
