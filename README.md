@@ -12,4 +12,4 @@
 
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entityy title="antimicrobial" eid="Q68541106">
-<param ve-image url=""https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"" title="soybeanpod" description="Wikimedia Commons" fit="contain">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg" title="soybeanpod" description="Wikimedia Commons" fit="contain">
