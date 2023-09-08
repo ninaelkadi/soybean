@@ -19,5 +19,5 @@
 
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entity title="antimicrobial" eid="Q68541106">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_009_-_%E8%B1%86%E8%8A%BD_-_Glycine_max_%28L.%29_Merr.%2C_1804.jpg/640px-Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_009_-_%E8%B1%86%E8%8A%BD_-_Glycine_max_%28L.%29_Merr.%2C_1804.jpg" title="Soybean illustration" description="Wikimedia Commons" fit="contain">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Glycine_max_003.JPG/640px-Glycine_max_003.JPG">
+<param ve-compare sync url="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_009_-_%E8%B1%86%E8%8A%BD_-_Glycine_max_%28L.%29_Merr.%2C_1804.jpg/640px-Leiden_University_Library_-_Seikei_Zusetsu_vol._18%2C_page_009_-_%E8%B1%86%E8%8A%BD_-_Glycine_max_%28L.%29_Merr.%2C_1804.jpg" title="Soybean illustration" description="Wikimedia Commons" fit="contain">
+<param ve-compare url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Glycine_max_003.JPG/640px-Glycine_max_003.JPG">
