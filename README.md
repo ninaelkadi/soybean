@@ -3,8 +3,8 @@
 <param ve-config 
        title="Soybean"
        author="Nina Elkadi"
-       source-image="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
-       banner="https://upload.wikimedia.org/wikipedia/commons/c/c2/Gauchos_mateando.jpg"
+       source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
        layout="vertical">
 
 ## Introduction
