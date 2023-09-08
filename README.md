@@ -12,3 +12,4 @@
 
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entityy title="antimicrobial" eid="Q68541106">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Glycine_max_15-p.bot-glyci.max-016.jpg/1200px-Glycine_max_15-p.bot-glyci.max-016.jpg?20230117172128">
