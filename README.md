@@ -45,7 +45,7 @@
 
 <param ve-map
        center="129.5, 46.5"
-       zoom="1"
+       zoom="3"
        title="Manchuria"
        prefer-geojson>
 
