@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              124,
+              53
+            ],
+            [
+              135,
+              53
+            ],
+            [
+              135,
+              40
+            ],
+            [
+              124,
+              40
+            ],
+            [
+              124,
+              53
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Manchuria"
+      },
+      "id": 0
+    }
+  ]
+}
