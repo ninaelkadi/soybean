@@ -49,7 +49,7 @@
        title="Manchuria"
        prefer-geojson>
 <param ve-map-layer geojson
-       url="manchuriamap.json"
+       url="https://raw.githubusercontent.com/ninaelkadi/soybean/main/manchuriamap.json"
        show-labels
        stroke-width="0">
 
