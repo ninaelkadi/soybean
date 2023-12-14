@@ -49,7 +49,9 @@
        title="Manchuria"
        prefer-json>
 <param ve-map-layer geojson
-       url=https://github.com/ninaelkadi/soybean/blob/8fd7366996479919bb2f302ebf01efe51f65c446/manchuriamap.json>
+       url=https://github.com/ninaelkadi/soybean/blob/8fd7366996479919bb2f302ebf01efe51f65c446/manchuriamap.json
+       show-labels
+       stroke-width="0">
 
 
 ## blah blah timeline
