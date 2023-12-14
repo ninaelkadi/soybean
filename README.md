@@ -45,7 +45,7 @@
 
 <param ve-map
        center="123.4377, 42.6869"
-       zoom="14
+       zoom="14"
        title="Manchuria">
 <param ve-map-layer geojson https://github.com/ninaelkadi/soybean/blob/8fd7366996479919bb2f302ebf01efe51f65c446/manchuriamap.json>
 
