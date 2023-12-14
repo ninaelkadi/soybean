@@ -47,7 +47,8 @@
        center="129.5, 46.5"
        zoom="3"
        title="Manchuria">
-<param ve-map-layer geojson https://github.com/ninaelkadi/soybean/blob/8fd7366996479919bb2f302ebf01efe51f65c446/manchuriamap.json>
+<param ve-map-layer 
+       geojson url=https://github.com/ninaelkadi/soybean/blob/8fd7366996479919bb2f302ebf01efe51f65c446/manchuriamap.json>
 
 
 ## blah blah timeline
