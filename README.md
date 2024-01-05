@@ -30,7 +30,7 @@ Wild soybeans, glycine soja, were originally found in a range which “extends f
        stroke-width="0">
 <param ve-map
        center="44, 125"
-       zoom=".5"
+       zoom="1"
        title="Manchuria"
        prefer-geojson>
 {paragraph 3}
