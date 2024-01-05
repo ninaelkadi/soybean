@@ -55,8 +55,9 @@ The beans are thought to have first made landfall in the United States as early 
 <param ve-iframe src="https://archive.org/embed/s2492id1330009/page/253">
 {paragraph 7}
 
-## Map
-[*Ilex paraguariensis*](https://powo.science.kew.org/taxon/urn:lsid:ipni.org:names:315555-2) is an [evergreen](https://www.merriam-webster.com/dictionary/evergreen) shrub or tree native to the subtropical forests of Brazil, Paraguay, Uruguay, and Argentina that can grow up to forty-nine feet tall. The largest mate plantations are near Natal. It’s a plant species of the genus ilex (or “holly”) that contains caffeine as well as other alkaloid components, and it has stimulant, diuretic, antioxidant, and antimicrobial properties that made it attractive to both the indigenous Guaraní people and to Spanish colonial settlers. After being dried, roasted, and powdered, mate leaves are used to prepare a hot or cold beverage, also known as mate or Paraguayan Tea. The loose powder is typically steeped in hot water and strained through a <span data-click-image-zoomto="344,370,219,184">metallic straw, or bombilla</span>, shared by many people, passing from mouth to mouth. During the 19th century, the drink became associated with South American gauchos. The same mate and bombilla are shared in social gatherings, a habit that has endured despite recent public health campaigns to prevent COVID-19 pandemic.
+While the soybean was initially brought to the U.S. to produce and export soy sauce to Europe, by the early 20th century, American scientists and governmental agencies were also searching for alternative uses for the bean. In his 1918 Farmers’ Bulletin, USDA Scientific Assistant William Morse published a list of potential uses for soybean. Some options included ‘infant foods,’ ‘diabetic foods,’ ‘explosives,’ and ‘varnish.’
+<param ve-iframe serc="https://archive.org/embed/CAT87202617/page/5">
+{paragraph 8}
 
 <param ve-map
        center="129.5, 46.5"
