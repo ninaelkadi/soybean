@@ -59,16 +59,7 @@ While the soybean was initially brought to the U.S. to produce and export soy sa
 <param ve-iframe serc="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
-<param ve-map
-       center="129.5, 46.5"
-       zoom="3"
-       title="Manchuria"
-       prefer-geojson>
 
-<param ve-map-layer geojson
-       url="https://raw.githubusercontent.com/ninaelkadi/soybean/main/manchuriamap.json"
-       show-labels
-       stroke-width="0">
 
 
 ## blah blah timeline
