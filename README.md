@@ -55,10 +55,17 @@ The beans are thought to have first made landfall in the United States as early 
 <param ve-iframe src="https://archive.org/embed/s2492id1330009/page/253">
 {paragraph 7}
 
-While the soybean was initially brought to the U.S. to produce and export soy sauce to Europe, by the early 20th century, American scientists and governmental agencies were also searching for alternative uses for the bean. In his 1918 Farmers’ Bulletin, USDA Scientific Assistant William Morse published a list of potential uses for soybean. Some options included ‘infant foods,’ ‘diabetic foods,’ ‘explosives,’ and ‘varnish.’
+While the soybean was initially brought to the U.S. to produce and export soy sauce to Europe, by the early 20th century, American scientists and governmental agencies were also searching for alternative uses for the bean. In his 1918 Farmers’ Bulletin, USDA Scientific Assistant William Morse published a list of potential uses for soybean. Some options included ‘infant foods,’ ‘diabetic foods,’ ‘explosives,’ and ‘varnish.’21
 <param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
+Months after the United States entered World War I, the soybean was developing a reputation for being a protein-packed crop which could save the U.S. from food shortages. One author in a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals…In the United States it can do the same…”22 
+
+To this author, soybeans were seen as a potential alternative to the fruits of other industries, like the dairy industry, which rely more heavily on the unpredictability of human labor. 
+
+“The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry, It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”
+{paragraph 9}
+<param ve-iframe src="https://idnc.library.illinois.edu/?a=d&d=CHP19171229.2.142">
 
 
 
