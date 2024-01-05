@@ -1,7 +1,7 @@
 <a href="https://www.juncture-digital.org"><img src="https://juncture-digital.github.io/juncture/static/images/ve-button.png"></a>
 
 <param ve-config 
-       title="Soybean"
+       title="Soybean: The Versatile Miracle Crop"
        author="Nina Elkadi"
        source-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
