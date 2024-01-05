@@ -59,14 +59,17 @@ While the soybean was initially brought to the U.S. to produce and export soy sa
 <param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
-Months after the United States entered World War I, the soybean was developing a reputation for being a protein-packed crop which could save the U.S. from food shortages. One author in a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals…In the United States it can do the same…”22 
-
-To this author, soybeans were seen as a potential alternative to the fruits of other industries, like the dairy industry, which rely more heavily on the unpredictability of human labor. 
-
-“The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry, It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”
+Months after the United States entered World War I, the soybean was developing a reputation for being a protein-packed crop which could save the U.S. from food shortages. One author in a 1917 article in the Missouri-based Chicago Packer farming magazine wrote of soybeans: “In China the soy bean replaces in turn meat, milk, flour, eggs for the human population and fodder and silage for the animals…In the United States it can do the same…”22 The author emphasized that soybeans were seen as a potential alternative to the fruits of other industries, like the dairy industry, which rely more heavily on the unpredictability of human labor. “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry, It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”23
 <param ve-iframe src="https://idnc.library.illinois.edu/embed/CHP19171229.2.142">
 {paragraph 9}
 
+In Europe, soybean research was booming. At the “Universal Exposition of 1873,” a world’s fair in Vienna, soybeans “grown in China, Japan, Mongolia, Transcaucasia and even Tunisia,” were displayed.24 Five years later, a German author published an entire book on soy and its potential uses. In Asia, Japan’s global influence was growing after its victory in the Russo-Japanese war – a war in which “soy was an incentive for conflict.”25 Japan's victory led to a dramatic increase in territorial control, and subsequently, an increase in soybean production: “between 1906 and 1921, soybean production grew from 600,000 to 4.5 million tons.”26 During this time, many Poles also began growing these “Japanese beans.” 27 Research on soybeans flourished in Poland, and in 1930, Polish intellectual Czesław Marjan Bieżanko moved to South America to inform Polish immigrants on how to grow soybeans.28 Thus, the soybean made landfall in Brazil.  
+{paragraph 10}
+
+##A Certain Crop During Uncertain Times
+
+Immediately after WWI, farmers in industrial agricultural systems faced a soil crisis. To keep soldiers fed, many farmers in Germany and the U.S. turned to monocropping -- a farming technique which involves planting the same plant year after year -- which depleted the soil of nutrients. To solve their soil problems, farmers planted soybeans due to their ability to heal depleted soil through nitrogen fixation.29 Soy, the plant which was once looked down upon for its “weediness,” was being lauded for its potential to feed the nation and save the soil.
+<param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 
 ## blah blah timeline
 
