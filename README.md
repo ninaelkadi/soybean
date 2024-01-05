@@ -64,9 +64,8 @@ Months after the United States entered World War I, the soybean was developing a
 To this author, soybeans were seen as a potential alternative to the fruits of other industries, like the dairy industry, which rely more heavily on the unpredictability of human labor. 
 
 “The soy bean does not keep union hours. It does not hesitate to supplant any and all foods. It has no respect for the division of labor and for specialization of industry, It is prepared to break strikes. Why should any one worry about a milk strike when the soy bean can become at a moment’s notice, a very acceptable cow?”
+<param ve-iframe src="https://idnc.library.illinois.edu/embed/HP19171229.2.142">
 {paragraph 9}
-<param ve-iframe src="https://idnc.library.illinois.edu/?a=d&d=CHP19171229.2.142">
-
 
 
 ## blah blah timeline
