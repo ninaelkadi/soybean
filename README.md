@@ -36,7 +36,7 @@ Wild soybeans, glycine soja, were originally found in a range which “extends f
 {paragraph 3}
 
 Soy’s reputation began to change in the 3rd century BCE when a fermented soy product known as shi became popular in China.7 Soy was also mentioned in the Fan Shengzhi shu, a Han Dynstasy agricultural text from 1st century BCE.8 Shengzhi wrote detailed instructions for how to plant and cultivate soybeans and even predicted what yields would be. Even then, most soybeans were used as animal feed.9 Soybeans were also mentioned in Li Shizen’s medical manual Bencao gangmu, where he described that “virtually every part of the plant was used as medicine.”10 The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”11 Centuries later, the soybean was taxonomized by Carl Linnaeus as ‘glycine,’ meaning sweet, and ‘max’ due to its large nitrogen-fixing nodules.12   
-<param ve-iframe="https://www.google.com/books/edition/Dictionary_of_the_Ben_cao_gang_mu_Volume/Z5elBQAAQBAJ?hl=en&gbpv=1&dq=soybencao%20gangmu&pg=PA288&printsec=frontcover">
+<param ve-iframe src="https://www.google.com/books/edition/Dictionary_of_the_Ben_cao_gang_mu_Volume/Z5elBQAAQBAJ?hl=en&gbpv=1&dq=soybencao%20gangmu&pg=PA288&printsec=frontcover">
 {paragraph 4}
 
 ## Introduction
