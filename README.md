@@ -72,7 +72,7 @@ Immediately after WWI, farmers in industrial agricultural systems faced a soil c
 <param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 
 The soybean also gained notoriety during the uncertainty of World War II. During the war, farmers and scientists began searching for different uses of the plant, and one innovator, Henry Ford, went so far as to create a car using soybeans.30 Soybeans were also prized due to their oiliness, which could be used for food, plastic, and maybe even fuel. During the beginning of WWII, the U.S. doubled its soybean production to meet wartime demands for “oil and soy by-products.”31 By the end of the war, soy was being used in “margarine, paint, mayonnaise, wallpaper, glue, and dynamite, to mention just a few.”32 WWII put the U.S. on the map as the world’s top soybean producer. That is until 2006 – when the top exporter could, for the first time, be found in the Southern hemisphere.
-<param ve-video="https://archive.org/embed/different-uses-for-soybeans-the-henry-fords-innovation-nation">
+<param ve-iframe src="https://archive.org/embed/different-uses-for-soybeans-the-henry-fords-innovation-nation">
 
 ## blah blah timeline
 
