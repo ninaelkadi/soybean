@@ -12,6 +12,8 @@ The average consumer may not realize that soy is found in almost everything they
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg" title="Pivot Irrigration on a Soybean Field" description="United Soybean Board, CC BY 2.0 https://creativecommons.org/licenses/by/2.0, via Wikimedia Commons" fit="contain">
 
+[para 2]
+
 Throughout the past three decades, soybean growers in parts of South America have developed a reputation as the villains behind a rapid acceleration in Amazonian deforestation.3 However, the story is not so simple; soy is a highly politicized crop, entrenched in questions of land ownership, supply chains, and value. How did soybeans go from being pesky weeds – which were so resilient that people just had to find a use for them – to a crop with demand so high that it is replacing trees in the Amazon? The history of soy provides a glimpse into the inextricable nature of plants, capitalism, and human life. Within the context of a changing climate, questions regarding the sustainability of our food system are more pertinent than ever. The changing role of soybeans could provide a cautionary tale. 
 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Deforestation_in_the_Amazon_%2846200453954%29.jpg" title="Satellite Image of Cultivated Land in the Amazon" description="Sentinel Hub, CC BY 2.0 [https://creativecommons.org/licenses/by/2.0], via Wikimedia Commons" fit="contan">
