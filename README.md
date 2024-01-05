@@ -71,6 +71,9 @@ In Europe, soybean research was booming. At the “Universal Exposition of 1873,
 Immediately after WWI, farmers in industrial agricultural systems faced a soil crisis. To keep soldiers fed, many farmers in Germany and the U.S. turned to monocropping -- a farming technique which involves planting the same plant year after year -- which depleted the soil of nutrients. To solve their soil problems, farmers planted soybeans due to their ability to heal depleted soil through nitrogen fixation.29 Soy, the plant which was once looked down upon for its “weediness,” was being lauded for its potential to feed the nation and save the soil.
 <param ve-iframe src="https://archive.org/embed/CAT87203600/page/n1/mode/2up">
 
+The soybean also gained notoriety during the uncertainty of World War II. During the war, farmers and scientists began searching for different uses of the plant, and one innovator, Henry Ford, went so far as to create a car using soybeans.30 Soybeans were also prized due to their oiliness, which could be used for food, plastic, and maybe even fuel. During the beginning of WWII, the U.S. doubled its soybean production to meet wartime demands for “oil and soy by-products.”31 By the end of the war, soy was being used in “margarine, paint, mayonnaise, wallpaper, glue, and dynamite, to mention just a few.”32 WWII put the U.S. on the map as the world’s top soybean producer. That is until 2006 – when the top exporter could, for the first time, be found in the Southern hemisphere.
+<param ve-video="https://archive.org/embed/different-uses-for-soybeans-the-henry-fords-innovation-nation">
+
 ## blah blah timeline
 
 <param ve-knightlab-timeline source="1iLFw-10EhV01iszqWYE68qcZcGvSZVaMkqrCYh9BU4o" timenav-position="bottom" hash-bookmark="false” initial-zoom="1" height="750">
