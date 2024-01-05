@@ -52,7 +52,7 @@ Soy sauce is mentioned in British texts as early as the 17th century, but the 18
 {paragraph 6}
 
 The beans are thought to have first made landfall in the United States as early as the 18th century when Samuel Bowen, an Englishman who travelled to China with the British East India Company, brought soybean seeds to the U.S. He asked the surveyor general of Georgia to plant the seeds for him, and included detailed notes about what the plant could be used for, primarily noting that the soybeans could be used to produce soy sauce for export to England.19 In his note, Bowen also described how people in China turned the soybeans into Vermicelli, a type of noodle. The surveyor general confirmed that the soybean did yield three crops and may have even yielded a fourth had he tended to the crop.20 
-<param ve-iframe= "https://archive.org/details/s2492id1330009/page/252/mode/2up">
+<param ve-iframe src="https://archive.org/embed/s2492id1330009">
 {paragraph 7}
 
 ## Map
