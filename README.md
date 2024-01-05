@@ -56,7 +56,7 @@ The beans are thought to have first made landfall in the United States as early 
 {paragraph 7}
 
 While the soybean was initially brought to the U.S. to produce and export soy sauce to Europe, by the early 20th century, American scientists and governmental agencies were also searching for alternative uses for the bean. In his 1918 Farmers’ Bulletin, USDA Scientific Assistant William Morse published a list of potential uses for soybean. Some options included ‘infant foods,’ ‘diabetic foods,’ ‘explosives,’ and ‘varnish.’
-<param ve-iframe serc="https://archive.org/embed/CAT87202617/page/5">
+<param ve-iframe src="https://archive.org/embed/CAT87202617/page/5">
 {paragraph 8}
 
 
