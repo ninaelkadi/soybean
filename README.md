@@ -40,7 +40,6 @@ Soy’s reputation began to change in the 3rd century BCE when a fermented soy p
        url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Chinese_Materia_Dietetica%2C_Ming%3B_Fermented_sauce_%28jiang%29_Wellcome_L0039386.jpg" 
        title="Chinese Materia Dietetica, Ming: Fermented sauce (jiang)"
        description="AnonymousUnknown author, CC BY 4.0 <https://creativecommons.org/licenses/by/4.0>, via Wikimedia Commons">
-
 {paragraph 4}
 
 Soybeans have an innate ability to grow almost anywhere and survive almost anything. Their resiliency has lent them to be referred to as “weedy.” 13 In the beginning of the soybean story, people did not really choose the soybean – the soybean, an ideal crop with its spread-ability and resilience, chose people. 14 Samira Peruchi Moretto et. al noted, “Soybeans probably began their career in agriculture not as valued crops, but as weeds that could be eaten if necessary.”15
