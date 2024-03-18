@@ -4,42 +4,18 @@
     {
       "type": "Feature",
       "properties": {
-        "Shenyang": ""
-      },
-      "geometry": {
-        "coordinates": [
-          123.4774722168276,
-          41.69377689861426
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Changchun": ""
-      },
-      "geometry": {
-        "coordinates": [
-          125.31326722574448,
-          43.82770750496604
-        ],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Manchuria Borders": "",
         "stroke": "#555555",
         "stroke-width": 2,
-        "stroke-opacity": 1
+        "stroke-opacity": 1,
+        "fill": "#000000",
+        "fill-capacity": ".5"
       },
       "geometry": {
         "coordinates": [
           [
-            120.18953361717115,
-            52.56247921406785
+            120.207231013549,
+            52.57878806285345
           ],
           [
             125.85310759008115,
@@ -68,7 +44,47 @@
         ],
         "type": "LineString"
       },
-      "id": 2
+      "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Shenyang": ""
+      },
+      "geometry": {
+        "coordinates": [
+          123.4774722168276,
+          41.69377689861426
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Changchun": ""
+      },
+      "geometry": {
+        "coordinates": [
+          125.31326722574448,
+          43.82770750496604
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Harbin": ""
+      },
+      "geometry": {
+        "coordinates": [
+          126.62121845145697,
+          45.80481555269563
+        ],
+        "type": "Point"
+      },
+      "id": 3
     }
   ]
 }
