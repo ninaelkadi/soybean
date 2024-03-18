@@ -24,16 +24,17 @@ Throughout the past three decades, soybean growers in parts of South America hav
 
 ## Humble Origins
 Wild soybeans, glycine soja, were originally found in a range which “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”4 Glycine soja is thought to have been “naturally distributed…as early as 9,000 years ago.”5 Initially, soy, like wheat at the time, was not seen as a prized food for human consumption due to its difficulty to consume without proper preparation.
-<param ve-map-layer geojson
-       active title="Rough borders of Manchuria"
-       url="https://raw.githubusercontent.com/ninaelkadi/soybean/main/manchuriamap.json"
-       show-labels
-       stroke-width="0">
 <param ve-map
        center="44, 125"
        zoom="3"
        title="Manchuria"
        prefer-geojson>
+<param ve-map-layer geojson
+       active title="Rough borders of Manchuria"
+       url="https://raw.githubusercontent.com/ninaelkadi/soybean/main/manchuriamap.json"
+       show-labels
+       stroke-width="0">
+       
 {paragraph 3}
 
 Soy’s reputation began to change in the 3rd century BCE when a fermented soy product known as shi became popular in China.7 Soy was also mentioned in the Fan Shengzhi shu, a Han Dynstasy agricultural text from 1st century BCE.8 Shengzhi wrote detailed instructions for how to plant and cultivate soybeans and even predicted what yields would be. Even then, most soybeans were used as animal feed.9 Soybeans were also mentioned in Li Shizen’s medical manual Bencao gangmu, where he described that “virtually every part of the plant was used as medicine.”10 The European word for soy, “soya” comes from the Japanese word shoyu, or soy sauce; “the bean was named, in other words, for its processed product.”11 Centuries later, the soybean was taxonomized by Carl Linnaeus as ‘glycine,’ meaning sweet, and ‘max’ due to its large nitrogen-fixing nodules.12   
