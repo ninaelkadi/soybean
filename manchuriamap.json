@@ -287,7 +287,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "Habin"
+        "name": "Habin",
+        "label": "Habin"
       },
       "geometry": {
         "coordinates": [
@@ -305,7 +306,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "Changchun"
+        "name": "Changchun",
+        "label": "Changchun"
       },
       "geometry": {
         "coordinates": [
@@ -323,7 +325,8 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
-        "name": "Shenyang"
+        "name": "Shenyang",
+        "label": "Shenyang"
       },
       "geometry": {
         "coordinates": [
