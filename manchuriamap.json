@@ -8,7 +8,7 @@
         "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
-        "fill": "#555555",
+        "fill": "#70bd75",
         "fill-opacity": 0.5
       },
       "geometry": {
@@ -284,7 +284,7 @@
       "type": "Feature",
       "properties": {
         "title": "Harbin",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#70bd75",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Harbin"
@@ -302,7 +302,7 @@
       "type": "Feature",
       "properties": {
         "title": "Changchun",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#74bd7e",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Changchun"
@@ -320,7 +320,7 @@
       "type": "Feature",
       "properties": {
         "title": "Shenyang",
-        "marker-color": "#7e7e7e",
+        "marker-color": "#70bd75",
         "marker-size": "medium",
         "marker-symbol": "circle",
         "label": "Shenyang"
