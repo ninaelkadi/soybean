@@ -28,7 +28,7 @@ Throughout the past three decades, soybean growers in parts of South America hav
 Wild soybeans, glycine soja, were originally found in a range which “extends from Afghanistan in the west to Japan in the east, and from southern Siberia in the north to the subtropics of the Yangzi River valley.”4 Glycine soja is thought to have been “naturally distributed…as early as 9,000 years ago.”5 Initially, soy, like wheat at the time, was not seen as a prized food for human consumption due to its difficulty to consume without proper preparation.
 <param ve-map
        center="44, 125"
-       zoom="2"
+       zoom="5"
        title="Rough borders of Manchuria"
        prefer-geojson>
 <param ve-map-layer geojson
