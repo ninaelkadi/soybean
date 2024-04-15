@@ -57,7 +57,7 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 ## International Expansion
 Soy sauce is mentioned in British texts as early as the 17th century, but the 18th century is when soy production really took off worldwide.16 In the 18th century, people began exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas “like Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”17 As Brian Lander and Thomas David DuBois explained, the “explosion of global interest in soybeans coincided with a race to develop Manchuria itself.”18
 <param ve-iframe
-       scr="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
+       scr="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7/&output=embed">
 {paragraph 6}
 
 The beans are thought to have first made landfall in the United States as early as the 18th century when Samuel Bowen, an Englishman who travelled to China with the British East India Company, brought soybean seeds to the U.S. He asked the surveyor general of Georgia to plant the seeds for him, and included detailed notes about what the plant could be used for, primarily noting that the soybeans could be used to produce soy sauce for export to England.19 In his note, Bowen also described how people in China turned the soybeans into Vermicelli, a type of noodle. The surveyor general confirmed that the soybean did yield three crops and may have even yielded a fourth had he tended to the crop.20 
@@ -89,6 +89,8 @@ The soybean also gained notoriety during the uncertainty of World War II. During
 <param ve-knightlab-timeline source="1iLFw-10EhV01iszqWYE68qcZcGvSZVaMkqrCYh9BU4o" timenav-position="bottom" hash-bookmark="false” initial-zoom="1" height="750">
 
 The rising demand for soybeans is due to their use as a high-protein animal feed. In 1995, the Chinese government began prioritizing the cultivation of human-food crops such as rice and wheat due to population increases. China thus reduced the production of animal-feed crops like soy, and instead turned to countries like Brazil for import.37 In 2018, the annual flow of soybean from Brazil to China amounted to 27 million USD, and “the associated deforestation risk amounted to 61,500 ha, from which 34,600 ha resulted from the Brazilian-Chinese trade. Since forests serve as a sink of greenhouse gases, Brazilian deforestation caused 10.0 Mt emissions of carbon dioxide to the atmosphere, of which the Chinese share was 5.6 Mt.”38 
+
+
 
 The massive increase in scale of soybean production aligns with the introduction of genetically modified (GM) soybeans, such as Monsanto’s “Roundup Ready” soybeans, which were approved in Argentina and the United States in 1996 through the “principle of substantial equivalence,” which claims that “overall GM soybeans are similar to their non-GM equivalent, and thus represent no risk to the public health of the environment.”39 Since being released in Argentina in 1996, Roundup Ready soybeans have had “practically a 100 per cent adoption rate.”40 These genetically-modified organisms are resistant to glyphosate, an herbicide used to kill weeds, thus allowing growers to spray the herbicide, Roundup, without killing the plant. In 2012, 80 Olympic-size swimming pools – or 53 million gallons – “of glyphosate were sprayed across Argentina.”41
 
