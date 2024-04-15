@@ -57,7 +57,7 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 ## International Expansion
 Soy sauce is mentioned in British texts as early as the 17th century, but the 18th century is when soy production really took off worldwide.16 In the 18th century, people began exporting soybeans from then-Manchuria, a fertile region of Northeast China, to other areas “like Shanghai and Amoy, where the beans were processed into condiments or pressed for oil.”17 As Brian Lander and Thomas David DuBois explained, the “explosion of global interest in soybeans coincided with a race to develop Manchuria itself.”18
 <param ve-iframe
-       scr="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7/&output=embed">
+       scr="https://books.google.com/books?id=Xlo_l2fFjpsC&newbks=0&dq=soybean&pg=PP7&output=embed">
 {paragraph 6}
 
 The beans are thought to have first made landfall in the United States as early as the 18th century when Samuel Bowen, an Englishman who travelled to China with the British East India Company, brought soybean seeds to the U.S. He asked the surveyor general of Georgia to plant the seeds for him, and included detailed notes about what the plant could be used for, primarily noting that the soybeans could be used to produce soy sauce for export to England.19 In his note, Bowen also described how people in China turned the soybeans into Vermicelli, a type of noodle. The surveyor general confirmed that the soybean did yield three crops and may have even yielded a fourth had he tended to the crop.20 
