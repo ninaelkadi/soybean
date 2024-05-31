@@ -51,7 +51,6 @@ Soybeans have an innate ability to grow almost anywhere and survive almost anyth
 <param ve-plant-specimen jpid="10.5555/al.ap.specimen.m0121623">
 <param ve-entity title="diuretic" eid="Q200656">
 <param ve-entity title="antimicrobial" eid="Q68541106">
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/202002_Model_plant_glycine_max.svg/640px-202002_Model_plant_glycine_max.svg.png">
 {paragraph 5}
 
 ## International Expansion
