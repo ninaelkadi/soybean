@@ -7,8 +7,6 @@
        banner="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Glycine_max_15-p.bot-glyci.max-033.jpg/1076px-Glycine_max_15-p.bot-glyci.max-033.jpg?20230117172519"
        layout="vertical">
 
-.ve-annotate
-
 ## Introduction
 The average consumer may not realize that soy is found in almost everything they eat. From the vegetable oil in store-bought hummus, to the lecithin found in chocolate bars, to the mono- and diglycerides found in hot chocolate packets and on the outside of apples, soy is everywhere. Despite soy’s prominence in our food, most soy grown on earth is turned into animal feed; soy is by far the most common item on the menu for farmed animals, who eat over 90 percent of the soy grown today.1 In 2021, six percent of the earth’s surface was covered with soybeans.2 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/12_pivot_irrigation-1579_%2846148760615%29.jpg"
